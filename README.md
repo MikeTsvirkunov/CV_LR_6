@@ -1,6 +1,6 @@
 # Task 1
 
-- [last changed notebook for task 1]([https://www.kaggle.com/code/miketsvirkunov/cv-lr6-t2](https://www.kaggle.com/code/miketsvirkunov/cv-lr6-task-1))
+- [last changed notebook for task 1]([https://www.kaggle.com/code/miketsvirkunov/cv-lr6-t2](https://www.kaggle.com/code/miketsvirkunov/cv-lr6-task-1)
 
 # Task2
 
