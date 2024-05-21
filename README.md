@@ -7,5 +7,6 @@
 - [last changed notebook for task 2](https://www.kaggle.com/code/miketsvirkunov/cv-lr6-t2)
 - [preprocessed cluster dataset](https://www.kaggle.com/datasets/miketsvirkunov/clusterupdate/data) - resized dataset of [source dataset](https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset) to shape 256X256
 
-
+# Results
+- [Result sources](https://drive.google.com/drive/folders/1RHPzprMdZv4gwgJkOAUsYDRHCJFtcFBf?usp=sharing) - folders with trained models and train processes 
 
